@@ -105,6 +105,9 @@ extern gmx_integrator_t do_md;
 extern gmx_integrator_t do_steep;
 /* Do steepest descents EM */
 
+extern gmx_integrator_t do_ga;
+/* Do steepest descents EM */
+
 extern gmx_integrator_t do_cg;
 /* Do conjugate gradient EM */
 

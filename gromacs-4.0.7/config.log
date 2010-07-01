@@ -146,7 +146,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -170,7 +170,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -252,7 +252,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -419,7 +419,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -476,7 +476,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -528,7 +528,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -580,7 +580,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -761,7 +761,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -817,7 +817,7 @@ configure:27358: $? = 0
 configure:27376: result: yes
 configure:27383: checking for _doprnt
 configure:27447: cc -o conftest  -O3 -fomit-frame-pointer -finline-functions -Wall -Wno-unused -funroll-all-loops    conftest.c -lnsl -lfftw3f -lm  >&5
-/tmp/cccfCYcy.o: In function `main':
+/tmp/ccu2rblj.o: In function `main':
 conftest.c:(.text+0x7): undefined reference to `_doprnt'
 collect2: ld returned 1 exit status
 configure:27453: $? = 1
@@ -832,7 +832,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -941,7 +941,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -1067,7 +1067,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -1121,7 +1121,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -1190,7 +1190,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -1278,7 +1278,7 @@ configure: failed program was:
 | #define VERSION "4.0.7"
 | #define GMX_SOFTWARE_SQRT
 | #define GMX_QMMM_GAUSSIAN
-| #define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+| #define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 | #define BUILD_USER "pdalcin@phenom"
 | #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 | #define F77_OR_C_FUNC(name,NAME) name
@@ -1561,17 +1561,17 @@ lt_lt_cv_sys_global_symbol_to_cdecl='""'
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run aclocal-1.10'
+ACLOCAL='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run aclocal-1.10'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
-AMTAR='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run tar'
+AMTAR='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run tar'
 AR='ar'
 AS='cc'
 ASFLAGS=' -O3 -fomit-frame-pointer -finline-functions -Wall -Wno-unused -funroll-all-loops'
-AUTOCONF='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run autoconf'
-AUTOHEADER='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run autoheader'
-AUTOMAKE='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run automake-1.10'
+AUTOCONF='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run autoconf'
+AUTOHEADER='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run autoheader'
+AUTOMAKE='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run automake-1.10'
 AWK='mawk'
 CC='cc'
 CCAS='cc'
@@ -1649,7 +1649,7 @@ LIBSUFFIX=''
 LIBTOOL='$(SHELL) $(top_builddir)/libtool'
 LN_S='ln -s'
 LTLIBOBJS=''
-MAKEINFO='${SHELL} /home/pdalcin/Desktop/gromacs-4.0.7/config/missing --run makeinfo'
+MAKEINFO='${SHELL} /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/missing --run makeinfo'
 MDLIB_LIBOBJS=' qm_gaussian.lo gmx_fft_fftw3.lo'
 MPICC=''
 OBJDUMP='objdump'
@@ -1709,7 +1709,7 @@ host_vendor='unknown'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='$(SHELL) /home/pdalcin/Desktop/gromacs-4.0.7/config/install-sh'
+install_sh='$(SHELL) /home/pdalcin/Work/Gromacs-GA/gromacs-4.0.7/config/install-sh'
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'
@@ -1739,7 +1739,7 @@ target_alias=''
 #define VERSION "4.0.7"
 #define GMX_SOFTWARE_SQRT
 #define GMX_QMMM_GAUSSIAN
-#define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+#define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 #define BUILD_USER "pdalcin@phenom"
 #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 #define F77_OR_C_FUNC(name,NAME) name

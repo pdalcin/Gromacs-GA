@@ -14,7 +14,7 @@ library_names=''
 old_library='libgmxana.a'
 
 # Libraries that this one depends upon.
-dependency_libs=' /usr/local/gromacs/lib/libmd.la /usr/local/gromacs/lib/libgmx.la -lnsl /usr/lib/libfftw3f.la -lm'
+dependency_libs=' /usr/local/gromacs/lib/libmd.la /usr/local/gromacs/lib/libgmx.la -lnsl -lfftw3f -lm'
 
 # Version information for libgmxana.
 current=5

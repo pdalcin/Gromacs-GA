@@ -14,12 +14,12 @@ library_names=''
 old_library='liblapack.a'
 
 # Libraries that this one depends upon.
-dependency_libs=' -lnsl /usr/lib/gcc/x86_64-linux-gnu/4.4.1/../../../../lib//libfftw3f.la -lm'
+dependency_libs=' -lnsl -lfftw3f -lm'
 
 # Version information for liblapack.
-current=5
-age=2
-revision=3
+current=
+age=
+revision=
 
 # Is this an already installed library?
 installed=no

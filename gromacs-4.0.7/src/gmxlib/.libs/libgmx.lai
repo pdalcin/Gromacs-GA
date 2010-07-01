@@ -14,7 +14,7 @@ library_names=''
 old_library='libgmx.a'
 
 # Libraries that this one depends upon.
-dependency_libs=' -lnsl /usr/lib/libfftw3f.la -lm'
+dependency_libs=' -lnsl -lfftw3f -lm'
 
 # Version information for libgmx.
 current=5

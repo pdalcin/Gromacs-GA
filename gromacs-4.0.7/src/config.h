@@ -5,7 +5,7 @@
 #define BUILD_MACHINE "Linux 2.6.31-20-generic x86_64"
 
 /* Date and time for build */
-#define BUILD_TIME "Mon Apr 12 19:32:13 BRT 2010"
+#define BUILD_TIME "Tue Jun 22 21:40:27 BRT 2010"
 
 /* User doing build */
 #define BUILD_USER "pdalcin@phenom"
